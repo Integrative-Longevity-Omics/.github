@@ -1,10 +1,10 @@
 # Integrative-Longevity-Omics
 
-This repository will collect all the tools, workflows, and analysis scripts developed and/or adopted by the [ILO initiative](https://longevityomics.org/).
+This GitHub Organization account will collect all the tools, workflows, and analysis scripts developed and/or adopted by the [ILO initiative](https://longevityomics.org/).
 
 _UNDER CONSTRUCTION_
 
-Some of the repositories live under other GigHub organizational sites, and are linked here.
+Some of the repositories live under other associated GigHub organization accounts, and are linked here.
 
 - [**pipeliner-2**](https://github.com/montilab/pipeliner-2): A flexible Nextflow-based workflow for the processing of RNA-sequencing data. This is a DSL2 upgrade of our original [pipeliner](https://github.com/montilab/pipeliner) framework [[Federico A, et al., 2019]](https://doi.org/10.3389/fgene.2019.00614)
 
