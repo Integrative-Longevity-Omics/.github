@@ -4,6 +4,10 @@ This repository will collect all the tools, workflows, and analysis scripts deve
 
 _UNDER CONSTRUCTION_
 
+Some of the repositories live under other GigHub organizational sites, and are linked here.
+
+- [**pipeliner-2**](https://github.com/montilab/pipeliner-2): A flexible Nextflow-based workflow for the processing of RNA-sequencing data. This is a DSL2 upgrade of our original [pipeliner](https://github.com/montilab/pipeliner) framework [[Federico A, et al., 2019]](https://doi.org/10.3389/fgene.2019.00614)
+
 <!--
 
 **Here are some ideas to get you started:**
