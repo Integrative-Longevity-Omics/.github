@@ -9,7 +9,7 @@ Some of the repositories live under other associated GigHub organization account
 - [**pipeliner-2**](https://github.com/montilab/pipeliner-2): A flexible Nextflow-based workflow for the processing of RNA-sequencing data. This is a DSL2 upgrade of our original [pipeliner](https://github.com/montilab/pipeliner) framework [[Federico A, et al., 2019]](https://doi.org/10.3389/fgene.2019.00614)
 
 - [**yQTL-pipeline**](https://github.com/montilab/yQTL-Pipeline): A Nextflow- and R-based pipeline to streamline the execution of multi-step QTL discovery analyses. Built using Nextflow DSL2. <br>
-  [Li M, et al., Manuscript in Preparation]
+  [Li M, et al., [Manuscript in Preparation](https://www.biorxiv.org/content/10.1101/2024.01.26.577518v1)]
 
 <!--
 
