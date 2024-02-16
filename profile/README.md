@@ -4,6 +4,11 @@ This GitHub Organization account will collect all the tools, workflows, and anal
 
 _UNDER CONSTRUCTION_
 
+# Overview
+The ILO is generating transcriptomics, proteomics, metabolomics, and metagenomics data. These will be processed and QC-ed based on workflows and pipelines that will be included here. In particular, transcriptomics data will be processed based on [pipeliner-2](), cross-species proteomics data will be processed based on workflows described in [Cross-Species](https://github.com/Integrative-Longevity-Omics/Cross-Species), metabolomics data will be processed by [Metabolon](https://github.com/Integrative-Longevity-Omics/Metabolon-based-metabolomics), and metagenomics data will be processed based on the [MGS_pipeline](https://github.com/Integrative-Longevity-Omics/MGS_pipeline).
+
+# Resources
+
 Some of the repositories live under other associated GigHub organization accounts, and are linked here.
 
 - [**pipeliner-2**](https://github.com/montilab/pipeliner-2): A flexible Nextflow-based workflow for the processing of RNA-sequencing data. This is a DSL2 upgrade of our original [pipeliner](https://github.com/montilab/pipeliner) framework [[Federico A, et al., 2019]](https://doi.org/10.3389/fgene.2019.00614)
@@ -13,8 +18,8 @@ Some of the repositories live under other associated GigHub organization account
   [Li M, et al., [Manuscript in Preparation](https://www.biorxiv.org/content/10.1101/2024.01.26.577518v1)]
 -->
 
-<!--
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
