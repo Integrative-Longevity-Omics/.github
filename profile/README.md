@@ -11,7 +11,7 @@ The ILO is generating transcriptomics, proteomics, metabolomics, and metagenomic
 
 Some of the repositories live under other associated GigHub organization accounts, and are linked here.
 
-- [**nf-core/rnaseq**](nf-core/rnaseq): RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control. This is now the pipeline used by ILO to process all RNAseq data, superseding _pipeliner-2_.
+- [**nfcore-rnaseq-scc**](https://github.com/montilab/nfcore-rnaseq-scc): an instance of the [nf-co.re/rnaseq](https://nf-co.re/rnaseq/) pipeline tailored to run on BU's shared computing cluster ([SCC](https://www.bu.edu/tech/services/research/)). This RNA sequencing analysis pipeline uses STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and includes extensive quality control. This is now the pipeline used by ILO to process all RNAseq data, superseding _pipeliner-2_.
 
 - [**pipeliner-2**](https://github.com/montilab/pipeliner-2): A flexible Nextflow-based workflow for the processing of RNA-sequencing data. This is a DSL2 upgrade of our original [pipeliner](https://github.com/montilab/pipeliner) framework [[Federico A, et al., 2019]](https://doi.org/10.3389/fgene.2019.00614)
 
